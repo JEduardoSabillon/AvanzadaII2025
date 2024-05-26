@@ -1,0 +1,1 @@
+print("Estudio en la clase de Informatica Administratica")
